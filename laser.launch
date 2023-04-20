@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="mobile_mainpulator_body" type="scan.py" name="scan_values" output="screen">
+        
+    </node>
+</launch>
